@@ -1,0 +1,9 @@
+﻿.Element 
+{
+    border:1px solid brown;
+    border-radius:5px;
+    background-color: beige;
+    padding: 5px;
+    font-family: Arial 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+}
